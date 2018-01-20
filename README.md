@@ -26,6 +26,12 @@ communities to assist in our day-to-day work.
      1. [pandas](https://pandas.pydata.org/) via `pip install pandas`
      1. [numpy](http://www.numpy.org/) via `pip install numpy`
 
+## Exercises
+
+1. [**First Things First**](01-hello-git/README.md): create a
+   [fork](https://en.wikipedia.org/wiki/Fork_(software_development))
+   and workspace on your local filesystem (_clone_).
+
 ## Copyright and License
 
 Copyright 2018 Smart Wires, Inc. <https://www.smartwires.com/>
