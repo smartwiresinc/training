@@ -33,6 +33,8 @@ communities to assist in our day-to-day work.
 1. [**First Things First**](01-hello-git/README.md): create a
    [fork](https://en.wikipedia.org/wiki/Fork_(software_development))
    and workspace on your local filesystem (_clone_).
+1. [**Hey, Jupyter**](02-hey-jupyter/README.md): use `pandas` to explore a
+   power system model
 
 ## Copyright and License
 
