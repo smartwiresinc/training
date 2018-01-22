@@ -12,7 +12,9 @@ We use some of the tools popular in the software development and data science
 communities to assist in our day-to-day work.
 
 1. [Git](https://git-scm.com/downloads): a [version control system](https://en.wikipedia.org/wiki/Version_control),
-   which helps track revisions of files and simplifies collaboration
+   which helps track revisions of files and simplifies collaboration. On
+   Windows, a Git installation also includes Git-Bash, which implements
+   the [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 1. [Python 3](https://en.wikipedia.org/wiki/Python_(programming_language)):
    a programming language useful for data analysis
 

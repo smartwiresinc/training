@@ -96,6 +96,11 @@ $ git config user.email
 Jonathan.Yu@smartwires.com
 ```
 
+This configures the default name and email address to use in commit messages.
+The `--global` flag causes the setting to apply to all repositories on your
+system, but per-repository configuration can override these. For more detail,
+see [Customizing Git](https://git-scm.com/book/tr/v2/Customizing-Git-Git-Configuration).
+
 ### Making Changes
 
 We're collecting pictures of the cutest animals on the web. Find a picture on
