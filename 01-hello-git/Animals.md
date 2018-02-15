@@ -5,3 +5,6 @@ Source: https://pixabay.com/en/goat-white-goats-snow-dog-collar-2216868/
 
 ![Adorable Mouse](images/wood-mouse-3077319_1920.jpg)
 Source: https://pixabay.com/en/wood-mouse-rodent-nager-food-eat-3077319/
+
+![Adorable Penguin](images/penguin-56101_1920.jpg)
+Source: https://pixabay.com/en/penguin-funny-blue-water-animal-56101/
