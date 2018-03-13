@@ -241,7 +241,7 @@ It’s always better to be explicit though. What’s more, you have multiple bra
  to push (your new branch).
 
 The repository you cloned from - yours - can be referred to as origin. The new branch is called
- amend-my-name. So:
+ amend-my-name.So:
 
 
 ```
