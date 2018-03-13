@@ -11,6 +11,7 @@ Unfortunately, this quickly leads to situations like:
 1. report.docx
 1. report new.docx
 1. report new 2.docx
+1. report new 3.docx
 1. newreport.docx
 1. newreport final.docx
 1. newreport final final.docx
