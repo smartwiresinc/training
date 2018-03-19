@@ -8,3 +8,6 @@ Source: https://pixabay.com/en/wood-mouse-rodent-nager-food-eat-3077319/
 
 ![Adorable Penguin](images/penguin-56101_1920.jpg)
 Source: https://pixabay.com/en/penguin-funny-blue-water-animal-56101/
+
+![Adorable Cheetah](images/cheetah-2116775_1920.jpg)
+Source: https://pixabay.com/en/cheetah-namibia-nature-wild-life-2116775/
